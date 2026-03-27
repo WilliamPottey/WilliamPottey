@@ -23,7 +23,10 @@ A full-stack application that helps track job applications with automated email 
 ---
 
 ## 🛠 Tech Stack
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=fff)
 - **Languages** TypeScript/JavaScript, Python
 - **Frontend:** React, Angular
 - **Backend:** Node.js, Express  
@@ -61,9 +64,6 @@ A full-stack application that helps track job applications with automated email 
 
 ---
 
-## 📊 GitHub Stats
-
-!![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamPottey&show_icons=true&theme=radical)
 ![GitHub followers](https://img.shields.io/github/followers/WilliamPottey?style=social)
 ![Top Language](https://img.shields.io/github/languages/top/WilliamPottey?style=flat)
 ![Repo count](https://img.shields.io/github/repo-size/WilliamPottey/job-application-tracker?style=flat)
