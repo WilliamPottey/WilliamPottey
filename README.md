@@ -24,9 +24,10 @@ A full-stack application that helps track job applications with automated email 
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React  
+- **Languages** Typescript/Javascript, Python
+- **Frontend:** React, Angular
 - **Backend:** Node.js, Express  
-- **Database:** SQL (PostgreSQL / MySQL)  
+- **Database:** SQL (PostgreSQL / MS SQL Server)  
 - **Tools & Others:** Git, REST APIs, GitHub Actions, Gmail API
 
 ---
