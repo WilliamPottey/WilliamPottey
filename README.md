@@ -42,10 +42,12 @@ A full-stack application that helps track job applications with automated email 
 
 ## 🎯 Other Projects
 
-### Portfolio Website
-- Built a personal portfolio website to showcase projects
-- React + TailwindCSS
-- Live demo: (add your link here)
+### React Calculator App
+- Built a calculator  using only React components for practice
+### Doggy Match Maker
+- Built a conceptual dog adoption site with React
+- Uses extenral API's for retrieval Dog data
+- Includes filtering and pagination
 
 ### Side Projects 
 - Learning cloud deployment & serverless functions  
