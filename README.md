@@ -24,7 +24,7 @@ A full-stack application that helps track job applications with automated email 
 
 ## 🛠 Tech Stack
 
-- **Languages** Typescript/Javascript, Python
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamPottey&layout=compact&theme=radical)
 - **Frontend:** React, Angular
 - **Backend:** Node.js, Express  
 - **Database:** SQL (PostgreSQL / MS SQL Server)  
@@ -63,4 +63,5 @@ A full-stack application that helps track job applications with automated email 
 
 ## 📊 GitHub Stats
 
-![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamPottey&show_icons=true&theme=radical)
+!![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamPottey&show_icons=true&count_private=true&theme=radical)
+
